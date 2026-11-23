@@ -64,6 +64,16 @@ I'm currently developing my cloud skills through AWS training, hands-on labs, an
 - Worked on image enhancement and deep learning classification.
 - Used image preprocessing and data augmentation techniques.
 
+
+### 4. AWS Hotel Booking Chatbot using Amazon Lex
+
+- Developed an intelligent hotel booking chatbot using Amazon Lex V2.
+- Integrated AWS Lambda for serverless backend processing.
+- Automates hotel booking conversations and customer interaction.
+- **Technologies:** AWS, Amazon Lex V2, AWS Lambda, Python.
+- Repository: [View Project](https://github.com/Darshan-610/hotel-booking-chatbot-aws-lex)
+
+
 ---
 
 ## 📜 Training & Certifications
