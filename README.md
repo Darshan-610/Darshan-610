@@ -51,16 +51,16 @@ I'm currently developing my cloud skills through AWS training, hands-on labs, an
 
 ## 📂 Projects
 
-### 2. Bank Customer Churn Prediction
+### 1. Bank Customer Churn Prediction
 - Machine learning project focused on predicting customer churn.
 - Repository: [View Project](#)
 
-### 3. Twitter Sentiment Analysis
+### 2. Twitter Sentiment Analysis
 - Implemented Logistic Regression for sentiment classification.
 - Training Accuracy: 86.62%
 - Testing Accuracy: 81.25%
 
-### 4. Skin Cancer Detection using SRGAN
+### 3. Skin Cancer Detection using SRGAN
 - Worked on image enhancement and deep learning classification.
 - Used image preprocessing and data augmentation techniques.
 
