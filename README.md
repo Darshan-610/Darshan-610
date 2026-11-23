@@ -51,13 +51,6 @@ I'm currently developing my cloud skills through AWS training, hands-on labs, an
 
 ## 📂 Projects
 
-### 1. Website Hosting using AWS
-- Hosted a website using Amazon EC2 and S3.
-- Configured Nginx web server.
-- Connected to EC2 using SSH.
-- Worked with IAM permissions and security groups.
-- Configured domain connectivity and CloudWatch monitoring.
-
 ### 2. Bank Customer Churn Prediction
 - Machine learning project focused on predicting customer churn.
 - Repository: [View Project](#)
